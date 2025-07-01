@@ -15,6 +15,7 @@ Currently looking for an **internship** — and open to professional opportuniti
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-68217A.svg?style=flat&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C.svg?style=flat&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -46,7 +47,7 @@ Currently looking for an **internship** — and open to professional opportuniti
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=flat&logo=adobe-photoshop&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=notion&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923.svg?style=flat&logo=data&logoColor=white)
 ![Pencil](https://img.shields.io/badge/Pencil-5E5E5E.svg?style=flat&logo=pencil&logoColor=white)
 ![Looping](https://img.shields.io/badge/Looping-999999.svg?style=flat&logo=loop&logoColor=white)
