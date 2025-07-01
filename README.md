@@ -10,3 +10,6 @@ Currently looking for an **internship** — and open to professional opportuniti
 
 📄 My resume is available upon request  
 📫 mams.ratsimba@gmail.com · +261 34 80 586 15
+
+[![Mamitiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamitiana130)](https://github.com/anuraghazra/github-readme-stats)
+![Mamitiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamitiana130&show_icons=true&theme=radical)
